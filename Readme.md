@@ -53,13 +53,13 @@ Due to constant kernel crash only one file 2019-December.csv was used for analys
 ### Null Values Viz
 
 
-![img](Imgs\missing.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/missing.png)
 
 There are three null columns: *category_code, user_session  and brand*. They all are nominal-qualitative variables. Due to lack of correlation measure for nominal variables we'll skip the correlation measurement steps.
 
 ## Customer Behaivour Portions
 
-![img](Imgs\customer_behavior.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/Customer_Behavior.png)
 
 
 Observations:
@@ -72,7 +72,7 @@ In ecommerce, the conversion rate represents the percentage of visitors that mak
 
 ## Visits Per Day
 
-![img](Imgs\visits_everyday.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/visits_everyday.png)
 
 In figure,there is a significant decrease in the amount of visitors on as we approach the end of the month. This may be becuase of the holiday season which is typically from 24th of December. People may travel and celebrate instead of shopping online.
 
@@ -83,7 +83,7 @@ Whats more theres always decrease in the customer number as the weekend approach
 
 ## Band Appearance Frequency
 
-![img](Imgs\brand.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/Brand.png)
 
 93.9% of mentioned brands are refered under 10000 times while the brand with top apprearance is mentioned up to 80000 times, almost 8 times more than regular brand. As a result, we will do more analysis how 6.1% (15 brands) of all brands make a diffirent to be mentioned/considered more during purchase decision process. 
 
@@ -96,7 +96,7 @@ Funel graph below will show propotion of each brands in this process.
 ## Top 15 Brands
 
 
-![img](Imgs\top_brands.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/top_brands.png)
 
 As illustrusted in above graph, 15 most popular brand has performance rate (add-to-cart/view and purchase/view) better than average dataset performance (add-to-cart/view = 53.6% and purchase/view = 12.8%). 
 
@@ -105,14 +105,14 @@ Among the top 15 most-popular brands, some brands are not performing as good as 
 
 ## Hourly Traffic By Behaviour
 
-![img](Imgs\hourly_traffic.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/hourly_traffic.png)
 
 As expected late nights and early mornings are traffic free. The lunch rush hours starts from 9 until 14. While the peak hour is 19:00 hrs.
     
 
 ## Acitivity By Time Spent
 
-![img](Imgs\avg_activity.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/avg_activity.png)
 
 The graph suggests that, the behaviour of users gets more negative for product as time increases. As shown in graph user, removes the product more as the time progresses. However, as we go from left to right in graph it the gap in dropping item and purchasing in closing. It suggest, user is more likely to buy product if he/she spends less time browsing the product.
 
