@@ -46,7 +46,7 @@ Typical funnel: view => cart => purchase.
 ## Images and Analysis
 
 ### Dask and Visualization
-![img](https://github.com/htmn88/ecommerce-analysis/tree/master/Imgs/dask_visualize.png)
+![img](https://github.com/htmn88/ecommerce-analysis/blob/master/Imgs/dask_visualize.png)
 
 Due to constant kernel crash only one file 2019-December.csv was used for analysis.
 
