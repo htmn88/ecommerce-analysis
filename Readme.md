@@ -117,4 +117,5 @@ As expected late nights and early mornings are traffic free. The lunch rush hour
 The graph suggests that, the behaviour of users gets more negative for product as time increases. As shown in graph user, removes the product more as the time progresses. However, as we go from left to right in graph it the gap in dropping item and purchasing in closing. It suggest, user is more likely to buy product if he/she spends less time browsing the product.
 
 
+(*Note: Most of the visualization were done using plotly and cuffilinks.*)
 
